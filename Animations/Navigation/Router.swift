@@ -9,6 +9,7 @@ import SwiftUI
 
 enum Router: CaseIterable, Identifiable {
     case animation1
+    case animation2
 
     var id: Self { self }
 
@@ -16,6 +17,8 @@ enum Router: CaseIterable, Identifiable {
         switch self {
         case .animation1:
             Screen(title: "Animation1", destination: Animation1())
+        case .animation2:
+            Screen(title: "Animation2", destination: Animation2())
         }
     }
 }
