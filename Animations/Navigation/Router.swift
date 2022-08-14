@@ -12,6 +12,7 @@ enum Router: CaseIterable, Identifiable {
     case animation2
     case animation3
     case animation4
+    case animation5
 
     var id: Self { self }
 
@@ -25,6 +26,8 @@ enum Router: CaseIterable, Identifiable {
             Screen(title: "Animation3", destination: Animation3())
         case .animation4:
             Screen(title: "Animation4", destination: Animation4())
+        case .animation5:
+            Screen(title: "Animation5", destination: Animation5())
         }
     }
 }
