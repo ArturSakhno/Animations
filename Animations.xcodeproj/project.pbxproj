@@ -20,6 +20,7 @@
 		16E4B70728A7E63400BA24DD /* Animation4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E4B70628A7E63400BA24DD /* Animation4.swift */; };
 		16E4B70B28A80BF300BA24DD /* Animation5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E4B70A28A80BF300BA24DD /* Animation5.swift */; };
 		ABECD6EF28B0F850008591CB /* Animation6.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABECD6EE28B0F850008591CB /* Animation6.swift */; };
+		ABECD6F128B0FE7E008591CB /* Animation7.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABECD6F028B0FE7E008591CB /* Animation7.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		16E4B70628A7E63400BA24DD /* Animation4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation4.swift; sourceTree = "<group>"; };
 		16E4B70A28A80BF300BA24DD /* Animation5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation5.swift; sourceTree = "<group>"; };
 		ABECD6EE28B0F850008591CB /* Animation6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation6.swift; sourceTree = "<group>"; };
+		ABECD6F028B0FE7E008591CB /* Animation7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation7.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				16E4B70628A7E63400BA24DD /* Animation4.swift */,
 				16E4B70A28A80BF300BA24DD /* Animation5.swift */,
 				ABECD6EE28B0F850008591CB /* Animation6.swift */,
+				ABECD6F028B0FE7E008591CB /* Animation7.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				16E4B70728A7E63400BA24DD /* Animation4.swift in Sources */,
 				16E4B6FF28A7D73500BA24DD /* Animation2.swift in Sources */,
 				16E4B70B28A80BF300BA24DD /* Animation5.swift in Sources */,
+				ABECD6F128B0FE7E008591CB /* Animation7.swift in Sources */,
 				ABECD6EF28B0F850008591CB /* Animation6.swift in Sources */,
 				16E4B70228A7DAB500BA24DD /* ScreenSize.swift in Sources */,
 				1616B9F528A7C39300E93453 /* Router.swift in Sources */,
