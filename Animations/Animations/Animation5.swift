@@ -47,7 +47,7 @@ fileprivate class ViewModel: ObservableObject {
     }
 }
 
-struct Animation6_Previews: PreviewProvider {
+struct Animation5_Previews: PreviewProvider {
     static var previews: some View {
         Animation5()
     }
